@@ -1,0 +1,12 @@
+{
+  "name"          : "underscore.query",
+  "description"   : "Resource Query Language",
+  "url"           : "https://github.com/dvv/underscore.query/",
+  "keywords"      : ["rql", "query", "filter", "nosql", "underscore", "javascript"],
+  "author"        : "Vladimir Dronnikov <dronnikov@gmail.com>",
+  "contributors"  : [],
+  "dependencies"  : [],
+  "lib"           : ".",
+  "main"          : "index.js",
+  "version"       : "0.0.1"
+}
