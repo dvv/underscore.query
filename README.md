@@ -1,3 +1,8 @@
+
+## WARNING
+
+** Moved to [underscore-data](https://github.com/dvv/underscore-data)**
+
 ## Aim
 
 To provide simple means to declaratively query recordsets represented by arrays/hashes of JS objects. Consider
